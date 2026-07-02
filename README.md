@@ -39,11 +39,6 @@ Currently working on **tourism and sports-related projects**, aiming to join a s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikoTech00&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikoTech00&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikoTech00&theme=tokyonight" />
 </p>
 
