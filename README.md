@@ -64,7 +64,8 @@ Currently working on **tourism and sports-related projects**, aiming to join a s
 
 ## 📫 Contact
 
-- 📧 Email: **danesi.nikolas@gmail.com**
+- 📧 Email: **info@nikolasdanesi.it**
+- Sito Web: [nikolasdanesi.it](https://www.nikolasdanesi.it)
 - 💼 LinkedIn: [nikolas-danesi](https://www.linkedin.com/in/nikolas-danesi)
 
 ---
